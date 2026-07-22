@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahulrao859/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahulrao859/DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahulrao859/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahulrao859/DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahulrao859/DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
