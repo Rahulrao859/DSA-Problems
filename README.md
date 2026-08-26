@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahulrao859/DSA-Problems/tree/master/0043-multiply-strings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rahulrao859/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahulrao859/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulrao859/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rahulrao859/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
