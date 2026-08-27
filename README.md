@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahulrao859/DSA-Problems/tree/master/0043-multiply-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rahulrao859/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rahulrao859/DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahulrao859/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahulrao859/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rahulrao859/DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahulrao859/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rahulrao859/DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rahulrao859/DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahulrao859/DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Heap (Priority Queue)
 |  |
@@ -60,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rahulrao859/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rahulrao859/DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
