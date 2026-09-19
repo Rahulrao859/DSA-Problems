@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahulrao859/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Rahulrao859/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rahulrao859/DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulrao859/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rahulrao859/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3903-smallest-stable-index-i](https://github.com/Rahulrao859/DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Rahulrao859/DSA-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
