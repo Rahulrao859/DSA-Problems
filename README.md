@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahulrao859/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0836-rectangle-overlap](https://github.com/Rahulrao859/DSA-Problems/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/Rahulrao859/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rahulrao859/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahulrao859/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/Rahulrao859/DSA-Problems/tree/master/3870-count-commas-in-range) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahulrao859/DSA-Problems/tree/master/0043-multiply-strings) |
+| [2409-count-days-spent-together](https://github.com/Rahulrao859/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rahulrao859/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rahulrao859/DSA-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rahulrao859/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
